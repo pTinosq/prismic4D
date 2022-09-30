@@ -1,0 +1,1 @@
+"# prismicio-php4d"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/pTinosq/prismicio-php4d.gitgit push -u origin main
