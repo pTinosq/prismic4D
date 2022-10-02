@@ -1,6 +1,6 @@
 {
-    "name": "ptinosq/prismicio-php4d",
-    "description": "Minimalist PHP library for interaction with the Prismic.io API",
+    "name": "ptinosq/prismic4d",
+    "description": "A minimalist PHP library for interaction with the Prismic.io API",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.5"
@@ -8,7 +8,7 @@
     "license": "GPL-3.0",
     "autoload": {
         "psr-4": {
-            "Ptinosq\\PrismicioPhp4d\\": "src/"
+            "Ptinosq\\Prismic4d\\": "src/"
         }
     },
     "authors": [
