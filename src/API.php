@@ -2,14 +2,14 @@
 
 declare(strict_types=1);
 
-namespace Prismic4D;
+namespace pTinosq\Prismic4D;
 
 use GuzzleHttp\Client;
-use Prismic4D\Page;
-use Prismic4D\PrismicURL;
+use pTinosq\Prismic4D\Page;
+use pTinosq\Prismic4D\PrismicURL;
 
 
-class Prismic4D
+class API
 {
     private $projectName;
     private $accessToken;
