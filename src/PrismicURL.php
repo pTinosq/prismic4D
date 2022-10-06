@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Prismic4D;
+namespace pTinosq\Prismic4D;
 
 class PrismicURL
 {
