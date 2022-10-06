@@ -6,7 +6,7 @@
         "guzzlehttp/guzzle": "^7.5"
     },
     "license": "GPL-3.0-only",
-    "version": "0.8.0",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "pTinosq\\Prismic4D\\": "src/"
@@ -17,5 +17,7 @@
             "name": "Constantinos Psomadakis",
             "email": "business@tinosps.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
