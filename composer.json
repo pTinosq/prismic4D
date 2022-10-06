@@ -6,6 +6,8 @@
         "guzzlehttp/guzzle": "^7.5"
     },
     "license": "GPL-3.0-only",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "pTinosq\\Prismic4D\\": "src/"
